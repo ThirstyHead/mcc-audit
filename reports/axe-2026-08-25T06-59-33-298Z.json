@@ -1,0 +1,2286 @@
+{
+  "generated": "2026-08-25T06:59:33.298Z",
+  "tags": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21a",
+    "wcag21aa"
+  ],
+  "pages": [
+    {
+      "url": "https://www.morgancc.edu/",
+      "title": "Home | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/",
+      "slug": "home",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 13,
+          "firstTargets": [
+            ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+            ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+            ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+            ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+            "a[data-term-id=\"171\"] > .tg-item-term"
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag244",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            ".et-pb-arrow-prev",
+            ".et-pb-arrow-next"
+          ]
+        }
+      ],
+      "violationTotal": 15,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 25,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
+            ".et_pb_text_1_tb_footer > .et_pb_text_inner > p"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/advisory-council",
+      "title": "Advisory Council | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/advisory-council/",
+      "slug": "about-mcc-advisory-council",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(1)",
+            ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(2)"
+          ]
+        }
+      ],
+      "violationTotal": 2,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/cace",
+      "title": "Center for Arts & Community Enrichment (CACE) | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/cace/",
+      "slug": "about-mcc-cace",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 7,
+          "firstTargets": [
+            ".dipi_button_grid_child_0 > .et_pb_module_inner > .dipi-button-grid.dipi-button-wrap.et_pb_button",
+            ".dipi_button_grid_child_1 > .et_pb_module_inner > .dipi-button-grid.dipi-button-wrap.et_pb_button",
+            ".et_pb_member_position",
+            "a[href=\"tel:(970) 542-3180\"]",
+            ".email > a"
+          ]
+        }
+      ],
+      "violationTotal": 7,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 52,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_2 > .et_pb_text_inner > p"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/history",
+      "title": "MCC’s History | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/history/",
+      "slug": "about-mcc-history",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 109,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/leadership",
+      "title": "Leadership | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/leadership/",
+      "slug": "about-mcc-leadership",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations",
+      "title": "Locations | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/",
+      "slug": "about-mcc-locations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 29,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/bennett-center",
+      "title": "Bennett Services | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/bennett-center/",
+      "slug": "about-mcc-locations-bennett-center",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 6,
+          "firstTargets": [
+            "a[href=\"tel:19705423255\"]",
+            "p:nth-child(4) > span > a",
+            "a[href=\"tel:(719) 775-8873\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3255\"]"
+          ]
+        }
+      ],
+      "violationTotal": 6,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 28,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_blurb_0 > .et_pb_blurb_content > .et_pb_main_blurb_image[aria-hidden=\"true\"] > .et_pb_image_wrap > .et_pb_animation_off_tablet.et_pb_animation_off_phone.et-pb-icon"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/bloedorn-center",
+      "title": "Bloedorn Center | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/bloedorn-center/",
+      "slug": "about-mcc-locations-bloedorn-center",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 14,
+          "firstTargets": [
+            "span > a[rel=\"noopener\"][target=\"_blank\"]",
+            "span:nth-child(3) > a:nth-child(1)",
+            "a[href=\"tel:19705423113\"]",
+            "strong > a[rel=\"noopener noreferrer\"]",
+            "a[href$=\"mailto:cace@morgancc.edu\"]"
+          ]
+        }
+      ],
+      "violationTotal": 14,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 29,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/burlington-center",
+      "title": "Burlington Center | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/burlington-center/",
+      "slug": "about-mcc-locations-burlington-center",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 7,
+          "firstTargets": [
+            ".et_pb_blurb_description > p:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "p:nth-child(2) > a[href=\"tel:17193469300\"]",
+            "p:nth-child(3) > a",
+            "a[href=\"tel:(719) 346-9300\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a"
+          ]
+        }
+      ],
+      "violationTotal": 7,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 28,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_blurb_0 > .et_pb_blurb_content > .et_pb_main_blurb_image[aria-hidden=\"true\"] > .et_pb_image_wrap > .et_pb_animation_off_tablet.et_pb_animation_off_phone.et-pb-icon"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/fort-morgan-campus",
+      "title": "Fort Morgan Campus | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/fort-morgan-campus/",
+      "slug": "about-mcc-locations-fort-morgan-campus",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 8,
+          "firstTargets": [
+            ".et_pb_blurb_description > p:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "p:nth-child(2) > a[href=\"tel:19705423100\"]",
+            "p:nth-child(3) > a[href$=\"mailto:info@morgancc.edu\"]",
+            "a[href=\"tel:19705423112\"]",
+            "a[href=\"mailto:facilities@morgancc.edu\"]"
+          ]
+        }
+      ],
+      "violationTotal": 8,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 29,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_blurb_0 > .et_pb_blurb_content > .et_pb_main_blurb_image[aria-hidden=\"true\"] > .et_pb_image_wrap > .et-waypoint.et_pb_animation_off.et_pb_animation_off_tablet"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/limon-center",
+      "title": "Limon Center | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/limon-center/",
+      "slug": "about-mcc-locations-limon-center",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 7,
+          "firstTargets": [
+            ".et_pb_blurb_description > p:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "a[href=\"tel:17197758873\"]",
+            "a[href=\"mailto:info-limon@morgancc.edu\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .telephone > a[href=\"tel:(719) 775-8873\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a"
+          ]
+        }
+      ],
+      "violationTotal": 7,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 28,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_blurb_0 > .et_pb_blurb_content > .et_pb_main_blurb_image[aria-hidden=\"true\"] > .et_pb_image_wrap > .et_pb_animation_off_tablet.et_pb_animation_off_phone.et-pb-icon"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/locations/wray-center",
+      "title": "Wray Center | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/locations/wray-center/",
+      "slug": "about-mcc-locations-wray-center",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 7,
+          "firstTargets": [
+            ".et_pb_blurb_description > p:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "p:nth-child(2) > a[href=\"tel:19703325755\"]",
+            "a[href=\"mailto:info-wray@morgancc.edu\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .telephone > a[href=\"tel:19703325755\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a"
+          ]
+        }
+      ],
+      "violationTotal": 7,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 28,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_blurb_0 > .et_pb_blurb_content > .et_pb_main_blurb_image[aria-hidden=\"true\"] > .et_pb_image_wrap > .et_pb_animation_off_tablet.et_pb_animation_off_phone.et-pb-icon"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/about-mcc/mission-vision-values",
+      "title": "Mission, Vision, Values | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/about-mcc/mission-vision-values/",
+      "slug": "about-mcc-mission-vision-values",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/ambassador",
+      "title": "Ambassador | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/ambassador/",
+      "slug": "ambassador",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/areas-of-interest",
+      "title": "Areas of Interest | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/areas-of-interest/",
+      "slug": "areas-of-interest",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/areas-of-interest/business-programs",
+      "title": "Business Programs | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/areas-of-interest/business-programs/",
+      "slug": "areas-of-interest-business-programs",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 5,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a",
+            ".et_pb_text_3 > .et_pb_text_inner > p:nth-child(2) > a",
+            "p:nth-child(3) > a:nth-child(1)",
+            "p:nth-child(3) > a:nth-child(2)",
+            "p:nth-child(3) > a:nth-child(3)"
+          ]
+        }
+      ],
+      "violationTotal": 5,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/areas-of-interest/ged-diploma",
+      "title": "GED & Adult Diploma | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/areas-of-interest/ged-diploma/",
+      "slug": "areas-of-interest-ged-diploma",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".et_pb_text_4 > .et_pb_text_inner > p > a"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/areas-of-interest/health-occupations",
+      "title": "Health Occupations | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/areas-of-interest/health-occupations/",
+      "slug": "areas-of-interest-health-occupations",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/behavioral-intervention-team",
+      "title": "Behavioral Intervention Team | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/behavioral-intervention-team/",
+      "slug": "behavioral-intervention-team",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            "p:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]",
+            ".et_pb_text_4 > .et_pb_text_inner > p > a",
+            ".et_pb_text_9 > .et_pb_text_inner > p > a"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/careers",
+      "title": "Careers | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/careers/",
+      "slug": "careers",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/commencement",
+      "title": "Commencement | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/commencement/",
+      "slug": "commencement",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 13,
+          "firstTargets": [
+            ".et_pb_text_10 > .et_pb_text_inner > p:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
+            ".et_pb_text_18 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)",
+            ".et_pb_text_18 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)",
+            "a[href$=\"s7BUtc7yKmU\"]",
+            ".et_pb_text_19 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)"
+          ]
+        }
+      ],
+      "violationTotal": 13,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 33,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/current-students/academic-calendar",
+      "title": "Academic Calendar | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/current-students/academic-calendar/",
+      "slug": "current-students-academic-calendar",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 6,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a:nth-child(1)",
+            ".et_pb_text_2 > .et_pb_text_inner > p > a:nth-child(2)",
+            ".et_pb_text_3 > .et_pb_text_inner > table > tbody > tr:nth-child(15) > td:nth-child(1) > a",
+            "tr:nth-child(11) > td:nth-child(1) > a",
+            "td[width=\"416\"] > a"
+          ]
+        }
+      ],
+      "violationTotal": 6,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/current-students/library",
+      "title": "Library | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/current-students/library/",
+      "slug": "current-students-library",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 18,
+          "firstTargets": [
+            ".eb-adv-search__link",
+            ".et_pb_text_2 > .et_pb_text_inner > div:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "div:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)",
+            "div:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)",
+            "div:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(5)"
+          ]
+        }
+      ],
+      "violationTotal": 18,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/current-students/student-help",
+      "title": "Student Help | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/current-students/student-help/",
+      "slug": "current-students-student-help",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            ".et_pb_text_6 > .et_pb_text_inner > p",
+            "li:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "li:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/current-students/student-life",
+      "title": "Student Life | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/current-students/student-life/",
+      "slug": "current-students-student-life",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "a[href=\"mailto:jess.diehl@morgancc.edu\"]",
+            ".et_pb_text_13 > .et_pb_text_inner > p > a"
+          ]
+        }
+      ],
+      "violationTotal": 2,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "help": "Links must be distinguishable without relying on color",
+          "wcag": [
+            "wcag2a",
+            "wcag141"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "a[href=\"mailto:jess.diehl@morgancc.edu\"]"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/current-students/transcripts",
+      "title": "Transcripts | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/current-students/transcripts/",
+      "slug": "current-students-transcripts",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a:nth-child(1)",
+            "a[href=\"tel:19705423100\"]",
+            "a[href$=\"/#/\"][rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/fafsa",
+      "title": "FAFSA/CAFSA | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/fafsa/",
+      "slug": "financial-aid-fafsa",
+      "violations": [
+        {
+          "id": "aria-allowed-attr",
+          "impact": "critical",
+          "help": "Elements must only use supported ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-allowed-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "iframe[name=\"fitvid0\"] .ytmVideoInfoVideoTitle",
+            "iframe[loading=\"lazy\"] .ytmVideoInfoVideoTitle"
+          ]
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "iframe[name=\"fitvid0\"] #movie_player",
+            "iframe[loading=\"lazy\"] #movie_player"
+          ]
+        },
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "help": "Buttons must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "iframe[name=\"fitvid0\"] .ytmVideoInfoChannelAvatar",
+            "iframe[loading=\"lazy\"] .ytmVideoInfoChannelAvatar"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 9,
+          "firstTargets": [
+            "p:nth-child(2) > span:nth-child(1)",
+            ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(2) > strong",
+            "span:nth-child(3)",
+            "p:nth-child(3) > span",
+            "span > strong:nth-child(1)"
+          ]
+        }
+      ],
+      "violationTotal": 15,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/other-resources",
+      "title": "Other Resources | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/other-resources/",
+      "slug": "financial-aid-other-resources",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 16,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > ul > li:nth-child(1) > a",
+            ".et_pb_text_2 > .et_pb_text_inner > ul > li:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "a[href$=\"irs.gov/\"]",
+            "a[href$=\"sss.gov/\"]",
+            "a[href$=\"socialsecurity.gov/\"]"
+          ]
+        }
+      ],
+      "violationTotal": 16,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/scholarships",
+      "title": "Scholarships | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/scholarships/",
+      "slug": "financial-aid-scholarships",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 10,
+          "firstTargets": [
+            "li:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            ".et_pb_text_inner > ul > li:nth-child(2) > a",
+            ".et_pb_text_inner > ul > li:nth-child(3) > a",
+            "a[href$=\"amazon\"]",
+            "a[href$=\"ambassador\"]"
+          ]
+        }
+      ],
+      "violationTotal": 10,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/shopping-sheets",
+      "title": "College Financing Plan | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/shopping-sheets/",
+      "slug": "financial-aid-shopping-sheets",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "p:nth-child(3) > a[href$=\"mcc\"]"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/student-loans",
+      "title": "Student Loans | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/student-loans/",
+      "slug": "financial-aid-student-loans",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 6,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a > strong",
+            ".wpb_wrapper > p:nth-child(2) > a[href$=\"forms/\"]",
+            ".et_pb_text_11 > .et_pb_text_inner > p:nth-child(2) > a",
+            "a[href$=\"#limits\"]",
+            "p:nth-child(4) > a[rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 6,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "help": "Links must be distinguishable without relying on color",
+          "wcag": [
+            "wcag2a",
+            "wcag141"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/tuition-and-fees",
+      "title": "Tuition & Fees | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/tuition-and-fees/",
+      "slug": "financial-aid-tuition-and-fees",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 22,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p > a",
+            ".et_pb_cta_2 > .et_pb_promo_description > .et_pb_module_header",
+            ".et_pb_cta_2 > .et_pb_promo_description > div > p",
+            ".et_pb_cta_2 > .et_pb_button_wrapper > .et_pb_promo_button.et_pb_button",
+            ".et_pb_text_7 > .et_pb_text_inner > h2"
+          ]
+        }
+      ],
+      "violationTotal": 22,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/financial-aid/tuition-and-fees-summer-2026",
+      "title": "Tuition & Fees (Summer 2026) | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/financial-aid/tuition-and-fees-summer-2026/",
+      "slug": "financial-aid-tuition-and-fees-summer-2026",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 19,
+          "firstTargets": [
+            ".et_pb_cta_2 > .et_pb_promo_description > .et_pb_module_header",
+            ".et_pb_cta_2 > .et_pb_promo_description > div > p",
+            ".et_pb_cta_2 > .et_pb_button_wrapper > .et_pb_promo_button.et_pb_button",
+            ".et_pb_text_7 > .et_pb_text_inner > h2",
+            ".et_pb_text_7 > .et_pb_text_inner > p:nth-child(2)"
+          ]
+        }
+      ],
+      "violationTotal": 19,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation",
+      "title": "Foundation | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/",
+      "slug": "foundation",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 16,
+          "firstTargets": [
+            ".et_pb_text_6 > .et_pb_text_inner > p > a[rel=\"noopener noreferrer\"][target=\"_blank\"]",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date"
+          ]
+        }
+      ],
+      "violationTotal": 16,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 40,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-menu-item.page_item > a[aria-current=\"page\"]",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation/gala-2027",
+      "title": "MCC Foundation Gala 2027 | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/gala-2027/",
+      "slug": "foundation-gala-2027",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 39,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(5) > a[rel=\"noopener\"][target=\"_blank\"]",
+            ".et_pb_text_3 > .et_pb_text_inner > p > a:nth-child(1)",
+            ".et_pb_text_3 > .et_pb_text_inner > p > a:nth-child(2)",
+            ".et_pb_text_3 > .et_pb_text_inner > p > a:nth-child(3)",
+            ".et_pb_text_5 > .et_pb_text_inner > p:nth-child(2) > a"
+          ]
+        }
+      ],
+      "violationTotal": 39,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 34,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation/new-about-foundation",
+      "title": "NEW About MCC Foundation | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/new-about-foundation/",
+      "slug": "foundation-new-about-foundation",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 8,
+          "firstTargets": [
+            ".et_pb_text_2 > .et_pb_text_inner > p",
+            "a[href=\"tel:19705423133\"]",
+            ".et_pb_text_4 > .et_pb_text_inner > a:nth-child(3)",
+            ".et_pb_text_6 > .et_pb_text_inner > p",
+            "a[href=\"tel:19705423107\"]"
+          ]
+        }
+      ],
+      "violationTotal": 8,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 51,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation/new-make-impact",
+      "title": "NEW Make an Impact | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/new-make-impact/",
+      "slug": "foundation-new-make-impact",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            "p:nth-child(4) > a[rel=\"noopener noreferrer\"][target=\"_blank\"]",
+            ".et_pb_text_1 > .et_pb_text_inner > p > a:nth-child(1)",
+            "a[href=\"tel:9705423113\"]"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 36,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation/new-scholarships-endowments",
+      "title": "NEW Scholarships & Endowments | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/new-scholarships-endowments/",
+      "slug": "foundation-new-scholarships-endowments",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            ".et_pb_text_1 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 32,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/foundation/who-we-are",
+      "title": "About MCC Foundation | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/foundation/who-we-are/",
+      "slug": "foundation-who-we-are",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 4,
+          "firstTargets": [
+            "a[href=\"tel:(970) 542-3133\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3107\"]",
+            ".et_pb_team_member_1 > .et_pb_team_member_description > div > .email > a"
+          ]
+        }
+      ],
+      "violationTotal": 4,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 53,
+          "firstTargets": [
+            "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.current-page-parent > a",
+            "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
+            "#menu-foundation > .et_pb_menu_page_id-8790.menu-item-8803.menu-item > a"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/getting-started/advising",
+      "title": "Advising | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/getting-started/advising/",
+      "slug": "getting-started-advising",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 18,
+          "firstTargets": [
+            "a[href=\"tel:(970) 542-3169\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3168\"]",
+            ".et_pb_team_member_1 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3159\"]"
+          ]
+        }
+      ],
+      "violationTotal": 18,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 29,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/getting-started/testing",
+      "title": "Testing | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/getting-started/testing/",
+      "slug": "getting-started-testing",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 16,
+          "firstTargets": [
+            ".et_pb_text_inner > p > span",
+            "li:nth-child(1) > span",
+            "li:nth-child(1) > span > strong",
+            "li:nth-child(2) > span",
+            "li:nth-child(2) > span > strong"
+          ]
+        }
+      ],
+      "violationTotal": 16,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/legal-notices",
+      "title": "Legal Notices | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/legal-notices/",
+      "slug": "legal-notices",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            "a[href$=\"hlcommission.org/\"]",
+            ".et_pb_accordion_item_0 > .et_pb_toggle_content.clearfix > p > a:nth-child(4)",
+            ".et_pb_text_inner > p > a[href=\"tel:19705423111\"]"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "help": "Links must be distinguishable without relying on color",
+          "wcag": [
+            "wcag2a",
+            "wcag141"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "a[href$=\"hlcommission.org/\"]",
+            ".et_pb_accordion_item_0 > .et_pb_toggle_content.clearfix > p > a:nth-child(4)"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/legal-notices/drug-alcohol-policy",
+      "title": "Drug & Alcohol Policy | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/legal-notices/drug-alcohol-policy/",
+      "slug": "legal-notices-drug-alcohol-policy",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 4,
+          "firstTargets": [
+            "li:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "li:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "li:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "p:nth-child(15) > a"
+          ]
+        }
+      ],
+      "violationTotal": 4,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/new-foundation-home",
+      "title": "NEW Foundation | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/new-foundation-home/",
+      "slug": "new-foundation-home",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 16,
+          "firstTargets": [
+            ".et_pb_text_5 > .et_pb_text_inner > p > a[rel=\"noopener noreferrer\"][target=\"_blank\"]",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+            ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date"
+          ]
+        }
+      ],
+      "violationTotal": 16,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 31,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_1 > .et_pb_text_inner > p"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/new-student-orientation",
+      "title": "New Student Orientation | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/new-student-orientation/",
+      "slug": "new-student-orientation",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "strong:nth-child(3) > a"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/portal-staff-forms",
+      "title": "Portal Staff Forms | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/portal-staff-forms/",
+      "slug": "portal-staff-forms",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 112,
+          "firstTargets": [
+            "#docs-acct > .et_pb_text_inner > p > a[href$=\"#forms-top\"]",
+            "#docs-acct > .et_pb_text_inner > ul > li:nth-child(1) > a[target=\"_blank\"][rel=\"noopener\"]",
+            "#docs-acct > .et_pb_text_inner > ul > li:nth-child(2) > a[target=\"_blank\"][rel=\"noopener\"]",
+            "#docs-acct-stu-actv > .et_pb_text_inner > p > a[href$=\"#forms-top\"]",
+            "#docs-acct-stu-actv > .et_pb_text_inner > ul > li:nth-child(1) > a[target=\"_blank\"][rel=\"noopener\"]"
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag244",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "a[target=\"_blank\"][rel=\"noopener\"]:nth-child(2)"
+          ]
+        }
+      ],
+      "violationTotal": 113,
+      "incomplete": []
+    },
+    {
+      "url": "https://www.morgancc.edu/student-awards",
+      "title": "Student Awards | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/student-awards/",
+      "slug": "student-awards",
+      "violations": [],
+      "violationTotal": 0,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/summer-camp",
+      "title": "Kids Summer Camp | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/summer-camp/",
+      "slug": "summer-camp",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 22,
+          "firstTargets": [
+            ".et_pb_button_0",
+            ".et_pb_text_3 > .et_pb_text_inner > h3",
+            ".et_pb_text_3 > .et_pb_text_inner > p:nth-child(2) > .a_GcMg.font-feature-liga-off.font-feature-clig-off",
+            ".et_pb_text_4 > .et_pb_text_inner > h3",
+            ".et_pb_text_4 > .et_pb_text_inner > p:nth-child(2) > .a_GcMg.font-feature-liga-off.font-feature-clig-off:nth-child(1)"
+          ]
+        }
+      ],
+      "violationTotal": 22,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 25,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
+            ".et_pb_text_1_tb_footer > .et_pb_text_inner > p"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/test-scholarships",
+      "title": "Test Scholarships | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/test-scholarships/",
+      "slug": "test-scholarships",
+      "violations": [
+        {
+          "id": "select-name",
+          "impact": "critical",
+          "help": "Select element must have an accessible name",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/select-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "#high_school"
+          ]
+        }
+      ],
+      "violationTotal": 1,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 25,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
+            ".et_pb_text_1_tb_footer > .et_pb_text_inner > p"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/titleix",
+      "title": "Title IX | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/titleix/",
+      "slug": "titleix",
+      "violations": [
+        {
+          "id": "aria-allowed-attr",
+          "impact": "critical",
+          "help": "Elements must only use supported ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-allowed-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "iframe[name=\"fitvid0\"] .ytmVideoInfoVideoTitle",
+            "iframe[name=\"fitvid1\"] .ytmVideoInfoVideoTitle"
+          ]
+        },
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "help": "Elements must only use permitted ARIA attributes",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 2,
+          "firstTargets": [
+            "iframe[name=\"fitvid0\"] #movie_player",
+            "iframe[name=\"fitvid1\"] #movie_player"
+          ]
+        },
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "help": "Buttons must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+          "wcag": [
+            "wcag2a",
+            "wcag412"
+          ],
+          "nodes": 1,
+          "firstTargets": [
+            "iframe[name=\"fitvid1\"] .ytmVideoInfoChannelAvatar"
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 9,
+          "firstTargets": [
+            "a[href=\"tel:(970) 542-3129\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3153\"]",
+            ".et_pb_team_member_1 > .et_pb_team_member_description > div > .email > a",
+            "a[href=\"tel:(970) 542-3111\"]"
+          ]
+        }
+      ],
+      "violationTotal": 14,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 26,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            "h1",
+            ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/veterans",
+      "title": "Veterans | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/veterans/",
+      "slug": "veterans",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 20,
+          "firstTargets": [
+            ".et_pb_text_4 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]",
+            "a[href=\"tel:(970) 542-3152\"]",
+            ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
+            "p:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
+            "p:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 20,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.morgancc.edu/what-we-offer/career-services",
+      "title": "Career & Transfer Services | Morgan Community College",
+      "finalUrl": "https://www.morgancc.edu/what-we-offer/career-services/",
+      "slug": "what-we-offer-career-services",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 3,
+          "firstTargets": [
+            "a[href=\"tel:(970) 542-3277\"]",
+            ".email > a",
+            ".et_pb_text_14 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]"
+          ]
+        }
+      ],
+      "violationTotal": 3,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "wcag": [
+            "wcag2aa",
+            "wcag143"
+          ],
+          "nodes": 27,
+          "firstTargets": [
+            ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
+            ".et_pb_text_0 > .et_pb_text_inner > p",
+            "h1"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagesHtml": {
+    "https://www.morgancc.edu/": "pages/home.html",
+    "https://www.morgancc.edu/about-mcc/advisory-council": "pages/about-mcc-advisory-council.html",
+    "https://www.morgancc.edu/about-mcc/cace": "pages/about-mcc-cace.html",
+    "https://www.morgancc.edu/about-mcc/history": "pages/about-mcc-history.html",
+    "https://www.morgancc.edu/about-mcc/leadership": "pages/about-mcc-leadership.html",
+    "https://www.morgancc.edu/about-mcc/locations": "pages/about-mcc-locations.html",
+    "https://www.morgancc.edu/about-mcc/locations/bennett-center": "pages/about-mcc-locations-bennett-center.html",
+    "https://www.morgancc.edu/about-mcc/locations/bloedorn-center": "pages/about-mcc-locations-bloedorn-center.html",
+    "https://www.morgancc.edu/about-mcc/locations/burlington-center": "pages/about-mcc-locations-burlington-center.html",
+    "https://www.morgancc.edu/about-mcc/locations/fort-morgan-campus": "pages/about-mcc-locations-fort-morgan-campus.html",
+    "https://www.morgancc.edu/about-mcc/locations/limon-center": "pages/about-mcc-locations-limon-center.html",
+    "https://www.morgancc.edu/about-mcc/locations/wray-center": "pages/about-mcc-locations-wray-center.html",
+    "https://www.morgancc.edu/about-mcc/mission-vision-values": "pages/about-mcc-mission-vision-values.html",
+    "https://www.morgancc.edu/ambassador": "pages/ambassador.html",
+    "https://www.morgancc.edu/areas-of-interest": "pages/areas-of-interest.html",
+    "https://www.morgancc.edu/areas-of-interest/business-programs": "pages/areas-of-interest-business-programs.html",
+    "https://www.morgancc.edu/areas-of-interest/ged-diploma": "pages/areas-of-interest-ged-diploma.html",
+    "https://www.morgancc.edu/areas-of-interest/health-occupations": "pages/areas-of-interest-health-occupations.html",
+    "https://www.morgancc.edu/behavioral-intervention-team": "pages/behavioral-intervention-team.html",
+    "https://www.morgancc.edu/careers": "pages/careers.html",
+    "https://www.morgancc.edu/commencement": "pages/commencement.html",
+    "https://www.morgancc.edu/current-students/academic-calendar": "pages/current-students-academic-calendar.html",
+    "https://www.morgancc.edu/current-students/library": "pages/current-students-library.html",
+    "https://www.morgancc.edu/current-students/student-help": "pages/current-students-student-help.html",
+    "https://www.morgancc.edu/current-students/student-life": "pages/current-students-student-life.html",
+    "https://www.morgancc.edu/current-students/transcripts": "pages/current-students-transcripts.html",
+    "https://www.morgancc.edu/financial-aid/fafsa": "pages/financial-aid-fafsa.html",
+    "https://www.morgancc.edu/financial-aid/other-resources": "pages/financial-aid-other-resources.html",
+    "https://www.morgancc.edu/financial-aid/scholarships": "pages/financial-aid-scholarships.html",
+    "https://www.morgancc.edu/financial-aid/shopping-sheets": "pages/financial-aid-shopping-sheets.html",
+    "https://www.morgancc.edu/financial-aid/student-loans": "pages/financial-aid-student-loans.html",
+    "https://www.morgancc.edu/financial-aid/tuition-and-fees": "pages/financial-aid-tuition-and-fees.html",
+    "https://www.morgancc.edu/financial-aid/tuition-and-fees-summer-2026": "pages/financial-aid-tuition-and-fees-summer-2026.html",
+    "https://www.morgancc.edu/foundation": "pages/foundation.html",
+    "https://www.morgancc.edu/foundation/gala-2027": "pages/foundation-gala-2027.html",
+    "https://www.morgancc.edu/foundation/new-about-foundation": "pages/foundation-new-about-foundation.html",
+    "https://www.morgancc.edu/foundation/new-make-impact": "pages/foundation-new-make-impact.html",
+    "https://www.morgancc.edu/foundation/new-scholarships-endowments": "pages/foundation-new-scholarships-endowments.html",
+    "https://www.morgancc.edu/foundation/who-we-are": "pages/foundation-who-we-are.html",
+    "https://www.morgancc.edu/getting-started/advising": "pages/getting-started-advising.html",
+    "https://www.morgancc.edu/getting-started/testing": "pages/getting-started-testing.html",
+    "https://www.morgancc.edu/legal-notices": "pages/legal-notices.html",
+    "https://www.morgancc.edu/legal-notices/drug-alcohol-policy": "pages/legal-notices-drug-alcohol-policy.html",
+    "https://www.morgancc.edu/new-foundation-home": "pages/new-foundation-home.html",
+    "https://www.morgancc.edu/new-student-orientation": "pages/new-student-orientation.html",
+    "https://www.morgancc.edu/portal-staff-forms": "pages/portal-staff-forms.html",
+    "https://www.morgancc.edu/student-awards": "pages/student-awards.html",
+    "https://www.morgancc.edu/summer-camp": "pages/summer-camp.html",
+    "https://www.morgancc.edu/test-scholarships": "pages/test-scholarships.html",
+    "https://www.morgancc.edu/titleix": "pages/titleix.html",
+    "https://www.morgancc.edu/veterans": "pages/veterans.html",
+    "https://www.morgancc.edu/what-we-offer/career-services": "pages/what-we-offer-career-services.html"
+  }
+}
