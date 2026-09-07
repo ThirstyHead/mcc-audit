@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-08-31T13:13:54.251Z",
+  "siteGenerated": "2026-09-07T12:06:14.705Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-08-31T13:13:53.134Z",
+    "generated": "2026-09-07T12:06:13.450Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -27,11 +27,11 @@
             ],
             "nodes": 13,
             "firstTargets": [
-              ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
-              ".tg-post-23002303 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
-              "a[data-term-id=\"171\"] > .tg-item-term"
+              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+              ".tg-post-23002465 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"171\"][rel=\"category\"] > .tg-item-term"
             ]
           },
           {
@@ -61,7 +61,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 25,
+            "nodes": 26,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
@@ -102,7 +102,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -126,17 +126,16 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 7,
+            "nodes": 4,
             "firstTargets": [
-              ".dipi_button_grid_child_0 > .et_pb_module_inner > .dipi-button-grid.dipi-button-wrap.et_pb_button",
-              ".dipi_button_grid_child_1 > .et_pb_module_inner > .dipi-button-grid.dipi-button-wrap.et_pb_button",
-              ".et_pb_member_position",
               "a[href=\"tel:(970) 542-3180\"]",
-              ".email > a"
+              ".email > a",
+              ".location > a",
+              "a[href=\"tel:19705423107\"]"
             ]
           }
         ],
-        "violationTotal": 7,
+        "violationTotal": 4,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -146,7 +145,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 52,
+            "nodes": 31,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -171,7 +170,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 109,
+            "nodes": 110,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -196,7 +195,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -221,7 +220,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 29,
+            "nodes": 30,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -232,7 +231,7 @@
       },
       {
         "url": "https://www.morgancc.edu/about-mcc/locations/bennett-center",
-        "title": "Bennett Services | Morgan Community College",
+        "title": "Bennett Office | Morgan Community College",
         "finalUrl": "https://www.morgancc.edu/about-mcc/locations/bennett-center/",
         "slug": "about-mcc-locations-bennett-center",
         "violations": [
@@ -265,7 +264,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 28,
+            "nodes": 29,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -309,7 +308,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 29,
+            "nodes": 30,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -353,7 +352,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 28,
+            "nodes": 29,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -397,7 +396,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 29,
+            "nodes": 30,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -441,7 +440,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 28,
+            "nodes": 29,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -485,7 +484,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 28,
+            "nodes": 29,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -510,7 +509,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -535,7 +534,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -560,7 +559,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -604,7 +603,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -644,7 +643,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -669,7 +668,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -711,7 +710,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -736,7 +735,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -780,7 +779,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 33,
+            "nodes": 34,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -824,7 +823,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -868,7 +867,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -910,7 +909,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -951,7 +950,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1006,7 +1005,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1095,7 +1094,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1139,7 +1138,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1183,7 +1182,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1223,7 +1222,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1267,7 +1266,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1324,7 +1323,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1368,7 +1367,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1412,7 +1411,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 40,
+            "nodes": 41,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-menu-item.page_item > a[aria-current=\"page\"]",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1456,7 +1455,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 34,
+            "nodes": 35,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1500,7 +1499,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 51,
+            "nodes": 52,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1542,7 +1541,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 36,
+            "nodes": 37,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1570,9 +1569,23 @@
             "firstTargets": [
               ".et_pb_text_1 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]"
             ]
+          },
+          {
+            "id": "select-name",
+            "impact": "critical",
+            "help": "Select element must have an accessible name",
+            "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/select-name?application=playwright",
+            "wcag": [
+              "wcag2a",
+              "wcag412"
+            ],
+            "nodes": 1,
+            "firstTargets": [
+              "#high_school"
+            ]
           }
         ],
-        "violationTotal": 1,
+        "violationTotal": 2,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1582,7 +1595,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 32,
+            "nodes": 33,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.menu-item-9834 > a",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1625,7 +1638,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 53,
+            "nodes": 54,
             "firstTargets": [
               "#menu-foundation > .et_pb_menu_page_id-8777.current-page-ancestor.current-page-parent > a",
               "#menu-foundation > .et_pb_menu_page_id-15179.menu-item-15210.menu-item > a",
@@ -1669,7 +1682,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 29,
+            "nodes": 30,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1713,7 +1726,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1755,25 +1768,11 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
               ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2"
-            ]
-          },
-          {
-            "id": "link-in-text-block",
-            "impact": "serious",
-            "help": "Links must be distinguishable without relying on color",
-            "wcag": [
-              "wcag2a",
-              "wcag141"
-            ],
-            "nodes": 2,
-            "firstTargets": [
-              "a[href$=\"hlcommission.org/\"]",
-              ".et_pb_accordion_item_0 > .et_pb_toggle_content.clearfix > p > a:nth-child(4)"
             ]
           }
         ]
@@ -1812,7 +1811,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -1856,7 +1855,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 31,
+            "nodes": 32,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -1896,7 +1895,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -1920,7 +1919,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 112,
+            "nodes": 105,
             "firstTargets": [
               "#docs-acct > .et_pb_text_inner > p > a[href$=\"#forms-top\"]",
               "#docs-acct > .et_pb_text_inner > ul > li:nth-child(1) > a[target=\"_blank\"][rel=\"noopener\"]",
@@ -1945,7 +1944,7 @@
             ]
           }
         ],
-        "violationTotal": 113,
+        "violationTotal": 106,
         "incomplete": []
       },
       {
@@ -1964,7 +1963,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -2008,7 +2007,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 25,
+            "nodes": 26,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
@@ -2048,7 +2047,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 25,
+            "nodes": 26,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0_tb_footer > .et_pb_text_inner > h2",
@@ -2136,7 +2135,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 26,
+            "nodes": 27,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               "h1",
@@ -2180,7 +2179,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -2222,7 +2221,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 27,
+            "nodes": 28,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
