@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-09-07T12:06:14.705Z",
+  "siteGenerated": "2026-09-14T12:21:09.128Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-09-07T12:06:13.450Z",
+    "generated": "2026-09-14T12:21:07.917Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -25,13 +25,13 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 13,
+            "nodes": 12,
             "firstTargets": [
-              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
-              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
-              ".tg-post-23002465 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"171\"][rel=\"category\"] > .tg-item-term"
+              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term"
             ]
           },
           {
@@ -51,7 +51,7 @@
             ]
           }
         ],
-        "violationTotal": 15,
+        "violationTotal": 14,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1609,26 +1609,8 @@
         "title": "About MCC Foundation | Morgan Community College",
         "finalUrl": "https://www.morgancc.edu/foundation/who-we-are/",
         "slug": "foundation-who-we-are",
-        "violations": [
-          {
-            "id": "color-contrast",
-            "impact": "serious",
-            "help": "Elements must meet minimum color contrast ratio thresholds",
-            "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
-            "wcag": [
-              "wcag2aa",
-              "wcag143"
-            ],
-            "nodes": 4,
-            "firstTargets": [
-              "a[href=\"tel:(970) 542-3133\"]",
-              ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
-              "a[href=\"tel:(970) 542-3107\"]",
-              ".et_pb_team_member_1 > .et_pb_team_member_description > div > .email > a"
-            ]
-          }
-        ],
-        "violationTotal": 4,
+        "violations": [],
+        "violationTotal": 0,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1706,7 +1688,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 16,
+            "nodes": 14,
             "firstTargets": [
               ".et_pb_text_inner > p > span",
               "li:nth-child(1) > span",
@@ -1716,7 +1698,7 @@
             ]
           }
         ],
-        "violationTotal": 16,
+        "violationTotal": 14,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -2115,17 +2097,15 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 9,
+            "nodes": 3,
             "firstTargets": [
-              "a[href=\"tel:(970) 542-3129\"]",
-              ".et_pb_team_member_0 > .et_pb_team_member_description > div > .email > a",
-              "a[href=\"tel:(970) 542-3153\"]",
-              ".et_pb_team_member_1 > .et_pb_team_member_description > div > .email > a",
-              "a[href=\"tel:(970) 542-3111\"]"
+              ".et_pb_text_15 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)",
+              ".et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)",
+              ".et_pb_text_16 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]"
             ]
           }
         ],
-        "violationTotal": 14,
+        "violationTotal": 8,
         "incomplete": [
           {
             "id": "color-contrast",
