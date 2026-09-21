@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-09-14T12:21:09.128Z",
+  "siteGenerated": "2026-09-21T12:29:02.164Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-09-14T12:21:07.917Z",
+    "generated": "2026-09-21T12:29:00.508Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -27,11 +27,11 @@
             ],
             "nodes": 12,
             "firstTargets": [
-              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
-              ".tg-post-23002453 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
-              ".tg-post-23002489 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term"
+              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+              ".tg-post-23002567 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term"
             ]
           },
           {
@@ -1074,17 +1074,17 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 9,
+            "nodes": 7,
             "firstTargets": [
-              "p:nth-child(2) > span:nth-child(1)",
+              ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(2)",
               ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(2) > strong",
-              "span:nth-child(3)",
-              "p:nth-child(3) > span",
-              "span > strong:nth-child(1)"
+              ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(3)",
+              ".et_pb_text_2 > .et_pb_text_inner > p:nth-child(3) > strong",
+              ".et_pb_text_9 > .et_pb_text_inner > p"
             ]
           }
         ],
-        "violationTotal": 15,
+        "violationTotal": 13,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1901,7 +1901,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 105,
+            "nodes": 107,
             "firstTargets": [
               "#docs-acct > .et_pb_text_inner > p > a[href$=\"#forms-top\"]",
               "#docs-acct > .et_pb_text_inner > ul > li:nth-child(1) > a[target=\"_blank\"][rel=\"noopener\"]",
@@ -1926,7 +1926,7 @@
             ]
           }
         ],
-        "violationTotal": 106,
+        "violationTotal": 108,
         "incomplete": []
       },
       {
