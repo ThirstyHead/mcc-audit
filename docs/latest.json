@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-09-28T13:25:59.541Z",
+  "siteGenerated": "2026-10-05T14:09:36.461Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-09-28T13:25:58.453Z",
+    "generated": "2026-10-05T14:09:34.820Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -25,13 +25,13 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 12,
+            "nodes": 13,
             "firstTargets": [
-              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
-              ".tg-post-23002571 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
-              ".tg-post-23002567 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term"
+              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+              "a[data-term-id=\"171\"] > .tg-item-term"
             ]
           },
           {
@@ -51,7 +51,7 @@
             ]
           }
         ],
-        "violationTotal": 14,
+        "violationTotal": 15,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -220,7 +220,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 30,
+            "nodes": 31,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -936,7 +936,7 @@
             "nodes": 2,
             "firstTargets": [
               "a[href=\"mailto:jess.diehl@morgancc.edu\"]",
-              ".et_pb_text_13 > .et_pb_text_inner > p > a"
+              ".et_pb_text_14 > .et_pb_text_inner > p > a"
             ]
           }
         ],
@@ -989,7 +989,7 @@
             ],
             "nodes": 3,
             "firstTargets": [
-              ".et_pb_text_2 > .et_pb_text_inner > p > a:nth-child(1)",
+              ".et_pb_text_3 > .et_pb_text_inner > p > a:nth-child(1)",
               "a[href=\"tel:19705423100\"]",
               "a[href$=\"/#/\"][rel=\"noopener\"][target=\"_blank\"]"
             ]
