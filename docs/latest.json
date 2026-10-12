@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-10-05T14:09:36.461Z",
+  "siteGenerated": "2026-10-12T15:00:31.118Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-10-05T14:09:34.820Z",
+    "generated": "2026-10-12T15:00:29.710Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -25,13 +25,13 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 13,
+            "nodes": 12,
             "firstTargets": [
-              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
-              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
-              "a[data-term-id=\"171\"] > .tg-item-term"
+              "a[data-term-id=\"173\"] > .tg-item-term",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]",
+              ".tg-post-23002711 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term"
             ]
           },
           {
@@ -51,7 +51,7 @@
             ]
           }
         ],
-        "violationTotal": 15,
+        "violationTotal": 14,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1391,17 +1391,17 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 16,
+            "nodes": 15,
             "firstTargets": [
               ".et_pb_text_6 > .et_pb_text_inner > p > a[rel=\"noopener noreferrer\"][target=\"_blank\"]",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date"
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]"
             ]
           }
         ],
-        "violationTotal": 16,
+        "violationTotal": 15,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -1817,17 +1817,17 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 16,
+            "nodes": 15,
             "firstTargets": [
               ".et_pb_text_5 > .et_pb_text_inner > p > a[rel=\"noopener noreferrer\"][target=\"_blank\"]",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"92\"][rel=\"category\"] > .tg-item-term",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
-              ".tg-post-23002199 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date"
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-cats-holder > .category[data-term-id=\"173\"][rel=\"category\"] > .tg-item-term",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-excerpt",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-date",
+              ".tg-post-23002733 > .tg-item-inner > .tg-item-content-holder.tg-dark.image-format > .tg-item-footer > .tg-item-comment[target=\"_self\"]"
             ]
           }
         ],
-        "violationTotal": 16,
+        "violationTotal": 15,
         "incomplete": [
           {
             "id": "color-contrast",
