@@ -1,8 +1,8 @@
 {
-  "siteGenerated": "2026-10-12T15:00:31.118Z",
+  "siteGenerated": "2026-10-19T12:42:53.457Z",
   "sourceRepo": "https://github.com/ThirstyHead/audit-morgancc.edu",
   "report": {
-    "generated": "2026-10-12T15:00:29.710Z",
+    "generated": "2026-10-19T12:42:52.461Z",
     "tags": [
       "wcag2a",
       "wcag2aa",
@@ -231,7 +231,7 @@
       },
       {
         "url": "https://www.morgancc.edu/about-mcc/locations/bennett-center",
-        "title": "Bennett Office | Morgan Community College",
+        "title": "Bennett Center | Morgan Community College",
         "finalUrl": "https://www.morgancc.edu/about-mcc/locations/bennett-center/",
         "slug": "about-mcc-locations-bennett-center",
         "violations": [
@@ -627,13 +627,14 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 1,
+            "nodes": 2,
             "firstTargets": [
-              ".et_pb_text_4 > .et_pb_text_inner > p > a"
+              ".et_pb_text_4 > .et_pb_text_inner > p > a",
+              ".et_pb_text_5 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]"
             ]
           }
         ],
-        "violationTotal": 1,
+        "violationTotal": 2,
         "incomplete": [
           {
             "id": "color-contrast",
@@ -643,7 +644,7 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 28,
+            "nodes": 34,
             "firstTargets": [
               ".et_pb_code_0_tb_header > .et_pb_code_inner > .header-menu > .header-menu-button > .button-wrapper > .menu-button[href$=\"#menu\"] > .button-text",
               ".et_pb_text_0 > .et_pb_text_inner > p",
@@ -762,10 +763,10 @@
             "nodes": 13,
             "firstTargets": [
               ".et_pb_text_10 > .et_pb_text_inner > p:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
-              ".et_pb_text_18 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)",
-              ".et_pb_text_18 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)",
+              ".et_pb_text_19 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(1)",
+              ".et_pb_text_19 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)",
               "a[href$=\"s7BUtc7yKmU\"]",
-              ".et_pb_text_19 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)"
+              ".et_pb_text_20 > .et_pb_text_inner > p > a[rel=\"noopener\"][target=\"_blank\"]:nth-child(3)"
             ]
           }
         ],
@@ -1031,7 +1032,7 @@
             ],
             "nodes": 2,
             "firstTargets": [
-              "iframe[name=\"fitvid0\"] .ytmVideoInfoVideoTitle",
+              "iframe[title=\"Start Your FAFSA® Form\"] .ytmVideoInfoVideoTitle",
               "iframe[loading=\"lazy\"] .ytmVideoInfoVideoTitle"
             ]
           },
@@ -1046,7 +1047,7 @@
             ],
             "nodes": 2,
             "firstTargets": [
-              "iframe[name=\"fitvid0\"] #movie_player",
+              "iframe[title=\"Start Your FAFSA® Form\"] #movie_player",
               "iframe[loading=\"lazy\"] #movie_player"
             ]
           },
@@ -1061,7 +1062,7 @@
             ],
             "nodes": 2,
             "firstTargets": [
-              "iframe[name=\"fitvid0\"] .ytmVideoInfoChannelAvatar",
+              "iframe[title=\"Start Your FAFSA® Form\"] .ytmVideoInfoChannelAvatar",
               "iframe[loading=\"lazy\"] .ytmVideoInfoChannelAvatar"
             ]
           },
@@ -1774,16 +1775,15 @@
               "wcag2aa",
               "wcag143"
             ],
-            "nodes": 4,
+            "nodes": 3,
             "firstTargets": [
               "li:nth-child(1) > a[rel=\"noopener\"][target=\"_blank\"]",
               "li:nth-child(2) > a[rel=\"noopener\"][target=\"_blank\"]",
-              "li:nth-child(3) > a[rel=\"noopener\"][target=\"_blank\"]",
               "p:nth-child(15) > a"
             ]
           }
         ],
-        "violationTotal": 4,
+        "violationTotal": 3,
         "incomplete": [
           {
             "id": "color-contrast",
